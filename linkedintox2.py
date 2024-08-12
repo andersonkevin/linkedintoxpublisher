@@ -94,7 +94,7 @@ def post_to_twitter(bearer_token, tweet_text):
         print(f"Response content: {response.text}")
 
 def main():
-    linkedin_url = "https://www.linkedin.com/today/author/andersonkev?trk=public_profile_see-all-articles"
+    linkedin_url = "https://www.linkedin.com/today/author/andersonkev?trk=public_profile_see-all-articles" # Add your Linkedin Public Articles URL
     bearer_token = os.getenv("TWITTER_BEARER_TOKEN")  # Load from environment variable
     user_id = os.getenv("TWITTER_USER_ID")  # Load from environment variable
 
