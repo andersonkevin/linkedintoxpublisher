@@ -1,0 +1,19 @@
+# Python specific
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Virtual environment
+myenv/
+venv/
+
+# Ignore everything outside the current directory
+/*
+# But not these files
+!/linkedintox2.py
+!/README.md
+!/LICENSE
+!/requirements.txt
+!/.gitignore
