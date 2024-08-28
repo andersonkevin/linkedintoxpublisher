@@ -1,7 +1,3 @@
-It seems that the formatting of the markdown was not preserved properly in your message. Let me correct that and provide you with a properly formatted `README.md` file.
-
-Here’s the corrected version:
-
 ```markdown
 # LinkedIn to Twitter Automation Script
 
@@ -25,7 +21,7 @@ Before using the script, make sure you have the following:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/andersonkevin/linkedintoxpublisher.git
 cd your-repo-name
 ```
 
